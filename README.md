@@ -2,5 +2,5 @@
 This is a repo holding scripts to automate repeative keyboard pressing
 The script is written to be executed in autohotkey env
 
-## autohotkey
+#### autohotkey
 More about autohotkey : https://autohotkey.com
